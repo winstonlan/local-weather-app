@@ -1,0 +1,12 @@
+#app-title {
+    font-size: 54px;
+}
+
+body {
+    background-color: #333333;
+    color: white;
+}
+
+#change-metric-button {
+    margin: 16px;
+}
